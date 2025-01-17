@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nithish-sk/sample.git/static/css/main.533ecb0f.css",
+    "main.js": "/Nithish-sk/sample.git/static/js/main.624df7f7.js",
+    "index.html": "/Nithish-sk/sample.git/index.html",
+    "main.533ecb0f.css.map": "/Nithish-sk/sample.git/static/css/main.533ecb0f.css.map",
+    "main.624df7f7.js.map": "/Nithish-sk/sample.git/static/js/main.624df7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533ecb0f.css",
+    "static/js/main.624df7f7.js"
+  ]
+}
